@@ -1,0 +1,11 @@
+streamlit
+pandas
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+chromadb
+ollama
+python-dotenv
+tqdm
+numpy
