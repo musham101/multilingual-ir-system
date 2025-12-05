@@ -15,9 +15,8 @@ def read_file(file_path):
         return None
     
 def preprocess_text(text: str) -> str:
-    # very simple; you can extend this
     text = text.strip()
-    text = re.sub(r"\s+", " ", text)  # collapse multiple spaces
+    text = re.sub(r"\s+", " ", text)
     return text
     
 def convert_text_to_doc(df):
