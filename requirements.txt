@@ -9,3 +9,4 @@ ollama
 python-dotenv
 tqdm
 numpy
+rank-bm25
